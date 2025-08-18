@@ -25,11 +25,12 @@ The goal of this repo is to explore emerging ideas at the intersection of **quan
 - `Redshift Quantization.py`  
   A cosmology-inspired script that explores the possibility of quantized redshift behavior across astronomical distances.
 
+<img width="665" height="503" alt="Screenshot 2025-08-17 at 11 08 05 PM" src="https://github.com/user-attachments/assets/ef6efc8c-dedb-43c7-9e36-c0b810c8fa89" />
+
 - `Superfluid_Vortex.ipynb`  
   Models quantized vortex dynamics in a superfluid system using discretized circulation, inspired by vortex quantization in helium-4.
 
   <img width="636" height="648" alt="Screenshot 2025-08-17 at 11 04 40 PM" src="https://github.com/user-attachments/assets/7c5af8ca-360f-472c-8f77-26b1ca495820" />
-
 
 ---
 
