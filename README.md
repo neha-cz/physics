@@ -20,7 +20,7 @@
 
 ---
 
-![Beta-Decay](betay-decay.png)
+![Beta-Decay](beta-decay.png)
 ![Redshift-Quantization](redshift-quantization.png)
 ![Superfluid-Vortex](superfluid.png)
 
