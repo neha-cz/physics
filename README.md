@@ -1,4 +1,4 @@
-# random physics projects
+# random mini physics projects
 
 - `Beta Decay-Inspired Eigensolver.ipynb`  
   A novel approach to eigensolving inspired by the energetics of nuclear beta decay, applying a tunable decay operator to variational quantum circuits.
