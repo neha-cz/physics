@@ -3,8 +3,6 @@
 - `Beta Decay-Inspired Eigensolver.ipynb`  
   A novel approach to eigensolving inspired by the energetics of nuclear beta decay, applying a tunable decay operator to variational quantum circuits.
   
-<img width="475" height="364" alt="Screenshot 2025-08-17 at 11 05 32 PM" src="https://github.com/user-attachments/assets/97e14276-2b44-438b-97e1-a1eb682930ff" />
-
 - `Floquet Time Crystal.ipynb`  
   Simulates discrete time translation symmetry breaking using a kicked Ising model, inspired by proposals for quantum time crystals.
 
@@ -17,12 +15,8 @@
 - `Redshift Quantization.py`  
   A cosmology-inspired script that explores the possibility of quantized redshift behavior across astronomical distances.
 
-<img width="665" height="503" alt="Screenshot 2025-08-17 at 11 08 05 PM" src="https://github.com/user-attachments/assets/ef6efc8c-dedb-43c7-9e36-c0b810c8fa89" />
-
 - `Superfluid_Vortex.ipynb`  
   Models quantized vortex dynamics in a superfluid system using discretized circulation, inspired by vortex quantization in helium-4.
-
-  <img width="636" height="648" alt="Screenshot 2025-08-17 at 11 04 40 PM" src="https://github.com/user-attachments/assets/7c5af8ca-360f-472c-8f77-26b1ca495820" />
 
 ---
 
