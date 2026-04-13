@@ -20,11 +20,9 @@
 
 ---
 
-<img src="https://github.com/beta-decay.png" width="48">
-<img src="https://github.com/redshift-quantization.png" width="48">
-<img src="https://github.com/superfluid.png" width="48">
-
-
+<img src="https://github.com/neha-cz/physics/blob/main/beta-decay.png" width="48">
+<img src="https://github.com/neha-cz/physics/blob/main/redshift-quantization.png" width="48">
+<img src="https://github.com/neha-cz/physics/blob/main/superfluid.png" width="48">
 ---
 
 ## Folders
