@@ -20,6 +20,12 @@
 
 ---
 
+![Beta-Decay](betay-decay.png)
+![Redshift-Quantization](redshift-quantization.png)
+![Superfluid-Vortex](superfluid.png)
+
+---
+
 ## Folders
 
 - `quantum-challenge/2023-qgss/`  
