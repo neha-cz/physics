@@ -20,9 +20,10 @@
 
 ---
 
-![Beta-Decay](beta-decay.png =250x250)
-![Redshift-Quantization](redshift-quantization.png =250x250)
-![Superfluid-Vortex](superfluid.png =250x250)
+<img src="https://github.com/beta-decay.png" width="48">
+<img src="https://github.com/redshift-quantization.png" width="48">
+<img src="https://github.com/superfluid.png" width="48">
+
 
 ---
 
